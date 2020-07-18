@@ -1,6 +1,8 @@
 # JoyCon Key Mappings
 
-This project has [JoyToKey](http://joytokey.net/) key mappings for the [Nintendo Switch](http://www.nintendo.com/switch/) JoyCon controllers when connected to the PC.
+This project has English translation guides for the [JoyToKey](http://joytokey.net/) key mappings program for the [Nintendo Switch](http://www.nintendo.com/switch/) JoyCon controllers when connected to the PC.
+
+__The below section has not yet been update and has been left unadultered from merlinpatt's initial  README.md file.__
 
 ## Table of Contents
 
